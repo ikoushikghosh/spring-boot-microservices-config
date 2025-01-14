@@ -5,8 +5,7 @@ cards:
   message: "Welcome to My Bank cards related Production APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "{cipher}8f18d0bf7cdf861b51f0a71eb57d87d4da0a466d239293babd8375bb8e102161a2798c18b28a93b8874140aadbd4696c
-"
+    email: "{cipher}8f18d0bf7cdf861b51f0a71eb57d87d4da0a466d239293babd8375bb8e102161a2798c18b28a93b8874140aadbd4696c"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
