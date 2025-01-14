@@ -5,7 +5,8 @@ loans:
   message: "Welcome to My Bank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@mybank.com"
+    email: "{cipher}1c2a572abb20be5127ca942005b787f28d6f85961d80af5da291d675f40a3d88c89a2a415dc16dd57b07b7fc7218cd9b
+"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
