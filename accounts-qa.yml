@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+accounts:
+  message: "Welcome to My Bank accounts related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@mybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
