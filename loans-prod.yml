@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 loans:
-  message: "Welcome to My Bank loans related production APIs "
+  message: "Welcome to My Bank loans related docker APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}1c2a572abb20be5127ca942005b787f28d6f85961d80af5da291d675f40a3d88c89a2a415dc16dd57b07b7fc7218cd9b"
